@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Cucumber-advancedReporting</name>
+=======
+	<name>cucumber-jenkins-demo</name>
+>>>>>>> f2a9d7b5c09bc9a16fda543acfc6a02aeb7fef03
 	<comment></comment>
 	<projects>
 	</projects>

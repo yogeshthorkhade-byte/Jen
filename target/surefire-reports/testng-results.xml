@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
@@ -15,12 +16,31 @@
             <param index="0">
               <value>
                 <![CDATA[org.testng.TestRunner@76fe6cdc]]>
+=======
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-01T11:55:31 IST" name="Surefire suite" finished-at="2026-04-01T11:55:32 IST" duration-ms="646">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.training.runner.TestRunner@2ea227af]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2026-04-01T11:55:31 IST" name="Surefire test" finished-at="2026-04-01T11:55:32 IST" duration-ms="646">
+      <class name="com.training.runner.TestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.training.runner.TestRunner@2ea227af]" started-at="2026-04-01T11:55:31 IST" name="setUpClass" finished-at="2026-04-01T11:55:31 IST" duration-ms="547" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@fd8294b]]>
+>>>>>>> f2a9d7b5c09bc9a16fda543acfc6a02aeb7fef03
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
+<<<<<<< HEAD
         <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.training.runner.TestRunner@188715b5]" started-at="2026-04-01T10:23:05 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-04-01T10:23:17 IST" duration-ms="11664" status="PASS">
           <params>
             <param index="0">
@@ -54,6 +74,9 @@
           </reporter-output>
         </test-method> <!-- runScenario -->
         <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.training.runner.TestRunner@188715b5]" started-at="2026-04-01T10:23:28 IST" name="tearDownClass" finished-at="2026-04-01T10:23:28 IST" duration-ms="61" status="PASS">
+=======
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.training.runner.TestRunner@2ea227af]" started-at="2026-04-01T11:55:32 IST" name="tearDownClass" finished-at="2026-04-01T11:55:32 IST" duration-ms="69" status="PASS">
+>>>>>>> f2a9d7b5c09bc9a16fda543acfc6a02aeb7fef03
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

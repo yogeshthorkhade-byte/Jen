@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.training.runner.TestRunner
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.67 s -- in com.training.runner.TestRunner
+=======
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.086 s -- in com.training.runner.TestRunner
+>>>>>>> f2a9d7b5c09bc9a16fda543acfc6a02aeb7fef03

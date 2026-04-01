@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\amaregouda.x\eclipse-workspace\Cucumber-advancedReporting\src\test\java\com\training\factory\DriverFactory.java
 C:\Users\amaregouda.x\eclipse-workspace\Cucumber-advancedReporting\src\test\java\com\training\hooks\Hooks.java
 C:\Users\amaregouda.x\eclipse-workspace\Cucumber-advancedReporting\src\test\java\com\training\reports\ExtentLogger.java
@@ -6,3 +7,7 @@ C:\Users\amaregouda.x\eclipse-workspace\Cucumber-advancedReporting\src\test\java
 C:\Users\amaregouda.x\eclipse-workspace\Cucumber-advancedReporting\src\test\java\com\training\runner\RerunFailedRunner.java
 C:\Users\amaregouda.x\eclipse-workspace\Cucumber-advancedReporting\src\test\java\com\training\runner\TestRunner.java
 C:\Users\amaregouda.x\eclipse-workspace\Cucumber-advancedReporting\src\test\java\com\training\steps\LoginSteps.java
+=======
+C:\Users\amaregouda.x\eclipse-workspace\cucumber-jenkins-demo\src\test\java\com\training\runner\TestRunner.java
+C:\Users\amaregouda.x\eclipse-workspace\cucumber-jenkins-demo\src\test\java\com\training\steps\CalculatorSteps.java
+>>>>>>> f2a9d7b5c09bc9a16fda543acfc6a02aeb7fef03
